@@ -1,0 +1,10 @@
+@media screen and (min-width:0px){
+    #ul-nav{
+        display: none;
+    }
+}
+@media screen and (min-width:992px){
+    #ul-nav{
+        display: flex;
+    }
+}
